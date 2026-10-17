@@ -1,0 +1,6 @@
+{
+  "name": "TaskForge",
+  "description": "Netflix-inspired project management platform with visual project poster rows, drag-and-drop Kanban boards, team collaboration, and deadline timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
